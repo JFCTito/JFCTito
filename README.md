@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesus Fajardo</h1>
 <h3 align="center">I'm a full stack web developer with a strong passion for programming and technology. With a diverse educational background spanning both scientific and humanistic disciplines. My entrepreneurial spirit and optimism drive my enthusiasm for the IT and business world, where I continually seek opportunities to learn and grow. I'm dedicated to expanding my skill set in the ever-evolving field of programming.</h3>
 
+- 📍  I'm from Venezuela and currently living in Spain Barcelona
 - 🌱 I’m currently studying at **42 Barcelona**
-
-- 📫 How to reach me **jfctito@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jfctito/](https://www.linkedin.com/in/jfctito/)
+- 🌐 English | Spanish
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
