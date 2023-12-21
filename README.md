@@ -20,8 +20,8 @@
 
 <div>
 <a href="https://github.com/JFCTito">
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfctito&show_icons=true&locale=en&layout=compact" alt="jfctito" /></p>
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfctito&show_icons=true&locale=en" alt="jfctito" /></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfctito&show_icons=true&locale=en&layout=compact" alt="jfctito" /></p>
 </div>
 
 ##
